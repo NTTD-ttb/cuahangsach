@@ -1,0 +1,87 @@
+
+.H1tencuahang{
+    color: white;
+    text-align: center;
+    padding: 40px 10px;
+}
+.nbcolor{
+     background-color: #7f0050;
+}
+.h1tencuahang{
+    text-align: center;
+    color: white;
+}
+.menu2{
+    background-color: #ffcdec;
+    width: 100%;
+    height: 50px;
+}
+.btnDanhmucsach{
+   padding: 5px;
+   padding-left: 5px;
+}
+.btndms{
+    background-color: #7f0050;
+    color: white;
+}
+.trangchu{
+    color: #7f0050;
+}
+.btnTim{
+    background-color: #7f0050;
+    color: white;
+}
+.contentcon1{
+    padding-top: 5px;
+    padding-left: 10px;
+    background-color: #ffe8f6;
+    height: 30px;
+    color: #7f0050;
+}
+.chao{
+    text-align: center;
+    color: #da068c;
+}
+.chua1{
+   margin: 100px; 
+   background-color: #fff2fb;
+}
+.btn{
+    background-color: #7f0050;
+    color: white;
+    font-weight: bold;
+}
+.card-title{
+    color: #7f0050 !important;
+    font-weight: bold;
+    text-align: center;
+}
+.card-text{
+    color: #da068c;
+    text-align: center;
+}
+.gia{
+    color: #ff0000;
+    font-weight: bold;
+    font-size: larger;
+    text-align: center;
+}
+.chuacuoifooter{
+    background-color: #ffcdec;
+    padding: 20px ;
+}
+.card-body{
+    background-color:#ffcdec;
+}
+.logocuoi{
+    width: 200px;
+    height: 200px;
+}
+.tenchcuoi{
+    color: #7f0050 !important;
+}
+.cuoicung{
+    background-color: #7f0050;
+    color: white;
+    text-align: center;
+}
